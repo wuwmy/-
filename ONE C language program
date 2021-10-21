@@ -1,0 +1,7 @@
+//一个c语言程序 纪念一下
+#inclub
+int main ()
+{
+  printf("hello world");
+}
+return 0;
